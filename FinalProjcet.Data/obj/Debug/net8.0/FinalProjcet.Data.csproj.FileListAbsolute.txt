@@ -1,0 +1,14 @@
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\bin\Debug\net8.0\FinalProjcet.Data.deps.json
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\bin\Debug\net8.0\FinalProjcet.Data.runtimeconfig.json
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\bin\Debug\net8.0\FinalProjcet.Data.dll
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\bin\Debug\net8.0\FinalProjcet.Data.pdb
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.csproj.AssemblyReference.cache
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.AssemblyInfoInputs.cache
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.AssemblyInfo.cs
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.csproj.CoreCompileInputs.cache
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.dll
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\refint\FinalProjcet.Data.dll
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.pdb
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\FinalProjcet.Data.genruntimeconfig.cache
+C:\Users\גילי הרשלר\source\repos\SolutionNetCore\FinalProjcet.Data\obj\Debug\net8.0\ref\FinalProjcet.Data.dll

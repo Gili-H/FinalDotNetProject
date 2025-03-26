@@ -1,0 +1,5 @@
+2025-03-22 20:24:09.9661 | INFO | Application is starting... | 
+2025-03-22 20:25:15.4352 | INFO | Application is starting... | 
+2025-03-22 20:28:54.0921 | INFO | Application is starting... | 
+2025-03-22 20:29:51.2174 | INFO | Application is starting... | 
+2025-03-22 20:43:46.6800 | INFO | Application is starting... | 
