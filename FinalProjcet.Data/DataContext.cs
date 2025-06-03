@@ -11,7 +11,7 @@ namespace FinalProjcet.Data
 {
     public class DataContext : DbContext
     {
-        //Server=(localdb)\mmsqllocaldb;Database=my_db
+
         public DbSet<User> Users { get; set; }
         public DbSet<WorkLog> WorkLogs { get; set; }
         public DbSet<LeaveRequest> LeaveRequests { get; set; }
@@ -25,9 +25,10 @@ namespace FinalProjcet.Data
             catch (Exception ex)
             {
                 Console.WriteLine($"Error configuring database: {ex.Message}");
+                Console.WriteLine("lets go to the market. I cant wait to get ti")
+
             }
         }
-
 
     }
 }
